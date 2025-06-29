@@ -14,10 +14,7 @@ const projectsData = [
       "CSS3",
       "Node.js",
       "Express.js",
-      "MongoDB",
-      "Cloudinary",
-      "JWT Auth",
-      "Multer"
+      "MongoDB"
     ],
     liveLink: "https://recipe-xpress.vercel.app/",
     githubLink: "https://github.com/chaitanyaB12/RecipeXpress.git"
@@ -108,7 +105,7 @@ const Projects = () => {
   return (
     <div
       id="projects"
-      className="flex min-h-screen w-full flex-col items-center justify-center gap-16 p-4 md:px-14 md:py-24"
+      className="flex min-h-screen w-full flex-col items-center justify-center gap-16 p-4 pt-28 md:px-14 md:py-24"
     >
       <motion.h1
         initial={{ opacity: 0, y: 100 }}

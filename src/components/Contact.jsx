@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <motion.div
       id="contact"
-      className="flex min-h-[70vh] min-w-full items-center justify-center"
+      className="flex min-h-[70vh] min-w-full items-center justify-center pt-28"
       initial={{ opacity: 0, y: 100 }}
       whileInView={{ opacity: 1, y: 0 }}
       exit={{ opacity: 0, y: 100 }}
