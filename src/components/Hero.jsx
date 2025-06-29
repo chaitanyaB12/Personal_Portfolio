@@ -3,7 +3,7 @@ import {motion}  from "framer-motion";
 
 const Hero = () => {
   return (
-    <motion.div
+    <motion.div 
       id="home"
       className="px-16 flex min-h-screen w-full items-center justify-center py-28 md:px-32"
       initial={{ opacity: 0, y: 100 }}
