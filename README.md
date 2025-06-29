@@ -14,7 +14,7 @@ A modern, responsive developer portfolio built using **React.js** and **Tailwind
 
 ## 📸 Preview
 
-![Image Alt](./)
+![Image Alt](https://github.com/chaitanyaB12/Personal_Portfolio/blob/60d740ae38bb3031f062c5b86427c55374fc4911/public/Home.png)
 
 ---
 
