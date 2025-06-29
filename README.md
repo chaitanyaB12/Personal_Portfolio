@@ -14,7 +14,7 @@ A modern, responsive developer portfolio built using **React.js** and **Tailwind
 
 ## 📸 Preview
 
-![Image Alt](./public/RecipeXpress.png)
+![Image Alt](./)
 
 ---
 
@@ -59,11 +59,12 @@ Portfolio/
 ---
 
 ## 🧾 How to Run Locally
-
+```
 git clone https://github.com/chaitanyaB12/Portfolio.git
 cd Portfolio
 npm install
 npm run dev
+```
 ---
 📬 Contact
 📧 Email: chaitanyabhopnikar@gmail.com
