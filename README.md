@@ -8,7 +8,7 @@ A modern, responsive developer portfolio built using **React.js** and **Tailwind
 
 ## 🚀 Live Site
 
-👉 [Visit My Portfolio](https://your-live-site-link.com)
+👉 [Visit My Portfolio](https://chaitanyab.vercel.app/)
 
 ---
 
