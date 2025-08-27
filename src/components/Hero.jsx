@@ -55,7 +55,7 @@ const Hero = () => {
           </p>
 
           <a
-            href="/Chaitanya_Bhopnikar_9545379071.pdf"
+            href="/Chaitanya_Bhopnikar_9325350043.pdf"
             download="Chaitanya-Bhopnikar-Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
