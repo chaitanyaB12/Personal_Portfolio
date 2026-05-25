@@ -35,24 +35,21 @@ const Hero = () => {
           viewport={{ once: false }}
           className="flex max-w-[600px] flex-col items-center justify-center gap-4 text-center"
         >
-          <h1 className="bg-gradient-to-r from-blue-500 to-pink-500 bg-clip-text text-transparent text-5xl font-light m:text-7xl">
+         <h1 className="bg-gradient-to-r from-blue-500 to-pink-500 bg-clip-text text-transparent text-5xl font-light md:text-7xl">
             Chaitanya Bhopnikar
-          </h1>
-          <h3 className="bg-gradient-to-r from-pink-500 to-blue-500 bg-clip-text text-transparent text-2xl m:text-3xl">
-            Frontend Developer
-          </h3>
+         </h1>
 
-          <p className="md:text-base text-sm text-gray-300 leading-relaxed">
-            I'm a{" "}
-            <span className="text-pink-400 font-semibold">full-stack</span>{" "}
-            developer passionate about transforming ideas into polished{" "}
-            <span className="text-violet-400 font-semibold">MERN</span>{" "}
-            applications. While I manage the complete development cycle, I
-            specialize in{" "}
-            <span className="text-yellow-400 font-bold">Frontend engineering</span>{" "}
-            — designing intuitive UIs, building reusable React components, and
-            crafting responsive user experiences with Tailwind CSS.
-          </p>
+      <p className="md:text-base text-sm text-gray-300 leading-relaxed">
+        I’m a{" "}
+        <span className="text-violet-400 font-semibold">MERN stack developer</span>{" "}
+        focused on building responsive and user-friendly web applications. I
+        specialize in creating modern{" "}
+        <span className="text-pink-400 font-semibold">React.js</span>{" "}
+        interfaces, integrating{" "}
+        <span className="text-yellow-400 font-bold">REST APIs</span>, and
+        developing scalable full-stack applications with clean and reusable
+        code.
+      </p>
 
           <a
             href="/Chaitanya_Bhopnikar_9325350043.pdf"

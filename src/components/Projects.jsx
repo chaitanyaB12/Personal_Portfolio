@@ -21,7 +21,7 @@ const projectsData = [
   },
   {
     image: image2,
-    title: "NoteCraft",
+    title: "PasteCraft",
     description:
       "A lightweight note saving and snippet tool built using React and Tailwind CSS. Includes features like instant copy, local storage, and beautiful UI.",
     technologies: ["React", "Tailwind CSS", "LocalStorage"],
